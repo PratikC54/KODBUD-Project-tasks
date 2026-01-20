@@ -30,10 +30,10 @@ public class Calculator {
             if(choice==5) System.exit(0);
             if(choice>5) System.out.println("Please verify the input and enter a valid one.");
 
-            System.out.println("Enter a number : ");
+            System.out.print("Enter a number : ");
             int a = sc.nextInt();
 
-            System.out.println("Enter another number : ");
+            System.out.print("Enter another number : ");
             int b = sc.nextInt();
 
             try {
