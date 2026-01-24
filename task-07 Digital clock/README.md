@@ -1,4 +1,4 @@
-# Task 06 – Digital Clock
+# Task 07 – Digital Clock
 
 ## Objective
 Simulate a digital clock using a console-based Java program.
