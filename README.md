@@ -24,4 +24,4 @@ Each task is implemented as a separate module with clean structure and documenta
 Each task has its own README with execution steps.
 
 ## Author
-Pratik
+Pratik Senapati
